@@ -1,5 +1,5 @@
 <html>
-	<head>
+	  <head>
 	<title>HTML 101</title>
 	</head>
 	<body>
